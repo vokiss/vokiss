@@ -3,6 +3,7 @@
 - 📫 How to reach me - @vokiss here)
 
 If you interested in hiring me, please see pinned projects
+
    ✔️ - keksobooking-JS - Booking-like one page site using only JS and Leaflet library
    ✔️ - 685251-big-trip-simple-18 - Trip-planning SPA, dive into web-architecture with MVP using only JS and NPM plugins
    ✔️ - six-cities-simple-ReactJS - Booking-like react app, TS + React + Redux project
