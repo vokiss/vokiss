@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vokiss
 - 👀 I’m interested in js, html, css
-- 🌱 I’m currently learning js, html, css
-- 💞️ I’m looking to collaborate on js, html, css
 - 📫 How to reach me @vokiss here)
+If you interested in hiring me, please see pinned projects
+- kek
 
 <!---
 vokiss/vokiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
