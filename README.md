@@ -9,7 +9,7 @@ If you interested in hiring me, please see pinned projects
    ✔️🌐 - six-cities-simple-nodeJSbackend Public - Booking-like backend, TS + Node + express + MongoDB projec | already deployed using docker http://80.249.147.145:3333/offers
    🚧 - 685251-taskforce-3 - Freelance site backend, NEST.js + MongoDB // work in progress
 
-TS fan
+💎 TS fan
 <!---
 vokiss/vokiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
