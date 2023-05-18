@@ -1,6 +1,5 @@
 👋 Hi, I’m @vokiss, my name is Vlad Kotov, right now i live in Alanya, Turkey
 👀 I’m interested in JS, TS, React, Node, NEST
-📫 How to reach me - @vokiss here)
 
 If you interested in hiring me, please see pinned projects
    - ✔️ keksobooking-JS - Booking-like one page site using only JS and Leaflet library
