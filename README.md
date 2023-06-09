@@ -2,7 +2,7 @@
 👀 I’m interested in JS, TS, React, Node, NEST
 
 If you interested in hiring me, please see pinned projects
-   - ✔️ keksobooking-JS - Booking-like one page site using only JS and Leaflet library
+   - ✔️ keksobooking-JS - Booking-like one page site using only JS and Leaflet library | https://vokiss.github.io/keksobooking-JS/
    - ✔️ 685251-big-trip-simple-18 - Trip-planning SPA, dive into web-architecture with MVP using only JS and NPM plugins
    - ✔️ six-cities-simple-ReactJS - Booking-like react app, TS + React + Redux project
    - ✔️🌐 six-cities-simple-nodeJSbackend - Booking-like backend, TS + Node + Express + MongoDB project | already deployed using docker http://80.249.147.145:3333/offers
